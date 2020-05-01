@@ -1,4 +1,6 @@
 # Expense_Tracker-Mern
+This code is belongs to BradTraversy.
+
 A front-End react web application and a Back-End web application is implement to create this project with mongoDb atlas as a database.
 
 #Dependencies used:
